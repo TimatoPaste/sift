@@ -2,7 +2,7 @@ Doing:
 -orientation assignment
 
 To-Do:
--descriptor creation
+-descriptor creation \\
 -descriptor matching
 -post-processing + trilinear interpolation
 -visualizations
